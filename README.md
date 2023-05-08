@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/Vk-4A76A8?logo=vk&logoColor=white&style=for-the-badge" alt="Youtube Badge"/>
   </a>
   <a href="https://twitter.com/GoozlemaniaNFT?t=iVaBNdstcPMRehJ_zD-SXQ&s=09">
-    <img src="https://img.shields.io/badge/My%20NFT%20collection%20Twitter-blue?logo=Twitter&logoColor=white&style=for-the-badge" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/My%20NFT%20collection%20Twitter-1DA1F2?logo=Twitter&logoColor=white&style=for-the-badge" alt="Twitter Badge"/>
   </a>
 </div>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=1flipstar1&style=flat-square&color=blue" alt=""></p>

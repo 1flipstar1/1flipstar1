@@ -1,7 +1,7 @@
 ### <div id="header" align="center">
   <img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width="100"/>
 </div> 
-<div id="badges">
+<div id="badges"  align="center">
   <a href="Telegram">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
   </a>

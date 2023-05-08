@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
   <a href="https://vk.com/flpstar">
-    <img src="https://img.shields.io/badge/Vk-blue?logo=vk&logoColor=white&style=for-the-badge" alt="Youtube Badge"/>
+    <img src="https://img.shields.io/badge/Vk-4A76A8?logo=vk&logoColor=white&style=for-the-badge" alt="Youtube Badge"/>
   </a>
   <a href="https://twitter.com/GoozlemaniaNFT?t=iVaBNdstcPMRehJ_zD-SXQ&s=09">
     <img src="https://img.shields.io/badge/My%20NFT%20collection%20Twitter-blue?logo=Twitter&logoColor=white&style=for-the-badge" alt="Twitter Badge"/>

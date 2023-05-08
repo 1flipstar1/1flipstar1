@@ -46,5 +46,4 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :fire: My Stats :
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1flipstar1&show_icons=true&theme=chartreuse-dark)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1flipstar1&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)

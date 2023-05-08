@@ -14,7 +14,7 @@
 </div>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=1flipstar1&style=flat-square&color=blue" alt=""></p>
 <h1>
-  ### Hey there
+  Hey there
   <img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="30px"/>
 </h1>
 <div align="center">

@@ -23,12 +23,7 @@
 
 ### :woman_technologist: &nbsp;About Me :
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-
-- 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-- 🌱 Exploring Technical Content Writing.
-- ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kakbar)
+Hi! I'm 1flipstar1, a programmer, crypto trader and creator of an NFT collection. 😊 I'm passionate about ecology and always trying to incorporate eco-friendly methods into my projects. I have created several small projects that have been successfully launched. 👨‍💻 Additionally, I am a crypto trader and have experience in cryptocurrency trading. Recently, I also created my own NFT collection, which is aimed at supporting ecology. 🌿 And now, I'm here, ready to further develop my skills and share my experience with my followers! 😎
 
 ---
 

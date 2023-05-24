@@ -35,6 +35,8 @@ Hi! I'm 1flipstar1, a programmer, crypto trader and creator of an NFT collection
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQlite" alt="SQlite" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </div>
+  <img src="https://yandex.ru/images/touch/search?img_url=https%3A%2F%2Fwww.lazyfoo.net%2Ftutorials%2FSDL%2F01_hello_SDL%2Flinux%2Fcodeblocks%2Flogo.png&lr=6&pos=12&rpt=simage&source=tabbar&text=иконка%20кодеблокс" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+</div>
 
 ---
 

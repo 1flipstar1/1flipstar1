@@ -23,7 +23,7 @@
 
 ### :woman_technologist: &nbsp;About Me :
 
-Hi! I'm 1flipstar1, a programmer, crypto trader and creator of an NFT collection. 😊 I'm passionate about ecology and always trying to incorporate eco-friendly methods into my projects. I have created several small projects that have been successfully launched. 👨‍💻 Additionally, I am a crypto trader and have experience in cryptocurrency trading. Recently, I also created my own NFT collection, which is aimed at supporting ecology. 🌿 And now, I'm here, ready to further develop my skills and share my experience with my followers! 😎
+Hi! I'm 1flipstar1, a programmer, crypto trader and creator of an NFT collection.
 
 ---
 

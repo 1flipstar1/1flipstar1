@@ -1,17 +1,6 @@
 <div id="header"  align="center">
   <img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width="100"/>
 </div>
-<div id="badges"  align="center">
-  <a href="https://t.me/flpstar">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://vk.com/flpstar">
-    <img src="https://img.shields.io/badge/Vk-4A76A8?logo=vk&logoColor=white&style=for-the-badge" alt="Youtube Badge"/>
-  </a>
-  <a href="https://twitter.com/GoozlemaniaNFT?t=iVaBNdstcPMRehJ_zD-SXQ&s=09">
-    <img src="https://img.shields.io/badge/My%20NFT%20collection%20Twitter-1DA1F2?logo=Twitter&logoColor=white&style=for-the-badge" alt="Twitter Badge"/>
-  </a>
-</div>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=1flipstar1&style=flat-square&color=blue" alt=""></p>
 <h1>
   Hey there

@@ -11,9 +11,6 @@
 </div>
 
 ### :woman_technologist: &nbsp;About Me :
-
-Hi! I'm 1flipstar1, a programmer, crypto trader and creator of an NFT collection.
-
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
